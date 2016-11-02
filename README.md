@@ -29,7 +29,7 @@ An [entity relation diagram of the whole UDD 1.2](diagram.md) provides a one pag
 
 ###[module_vle_map](udd/module_vle_map.md)
 
-###[student](udd/student.md)
+###[student](udd/student.md) (fe change test)
 
 ###[student_course_membership](udd/student_course_membership.md)
 
